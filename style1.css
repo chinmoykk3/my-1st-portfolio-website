@@ -83,9 +83,19 @@ main hr{
 }
 .second h1{
     font-size: 2.5rem;
-    margin: 20px 0;
 }
 
-.second box{
-    
+.second .box{
+    background: white;
+    width: 80vw;
+    height: 2px;
+    margin: 56px 0;
+    display: flex;
 }
+
+.second .vertical{
+    height: 93px;
+    width: 1px;
+    background-color: antiquewhite;
+    margin: 0 100px;
+} 
